@@ -25,7 +25,6 @@ function HomePage() {
           </a>
         </TabPanel>
         <TabPanel>
-          <h2>About the Project</h2>
           <About />
         </TabPanel>
         <TabPanel>
