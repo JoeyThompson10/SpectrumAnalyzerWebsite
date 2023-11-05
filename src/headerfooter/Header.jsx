@@ -7,11 +7,10 @@ function Header() {
   return (
     <header className="header">
       <div className="brand" onClick={() => navigate("/")}>
-        Joey's React Template
+        Spectrum Analyzer - Team 5
       </div>
       <nav className="navigation">
         <button onClick={() => navigate("/")}>Home</button>
-        <button onClick={() => navigate("/about")}>About</button>
       </nav>
     </header>
   );

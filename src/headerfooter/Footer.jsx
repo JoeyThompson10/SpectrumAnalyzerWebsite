@@ -6,7 +6,6 @@ function Footer() {
   return (
     <footer className="footer">
       <nav>
-        <Link to="/about">About</Link> | 
         <Link to="/contact">Contact</Link> | 
         <Link to="/terms">Terms</Link>
       </nav>
