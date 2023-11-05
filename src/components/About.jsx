@@ -24,23 +24,16 @@ const About = () => {
         <li><strong>Wave Analysis:</strong> Measures waveform properties against the detected grid.</li>
         <li><strong>Data Extraction:</strong> Outputs analysis results to CSV files for further study.</li>
       </ul>
-      <h2>Benefits:</h2>
+      <h2>Code Repository:</h2>
       <p>
-        This tool is engineered to enhance efficiency and accuracy in spectrum analysis 
-        and to make complex signal analysis more accessible for both educational and 
-        professional use.
-      </p>
-      <h2>Future Directions:</h2>
-      <p>
-        We are committed to continuously improving the tool by adding real-time analysis
-        capabilities, expanding the detectable signal range, and refining the user interface.
+        To view the source code and contribute to the project, visit the GitHub repository:
+        <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject" target="_blank" rel="noopener noreferrer"> Spectrum Analyzer Project</a>.
       </p>
       <h2>Team:</h2>
       <p>
         This project is brought to you by Masood Afzal, Ashly Altman, Brooke Ebetino, 
         Tyler Halley, and Joey Thompson, under the mentorship of Dr. Yan Huang.
       </p>
-      <p>For inquiries or more information, please <a href="#contact">contact us</a>.</p>
     </div>
   );
 };

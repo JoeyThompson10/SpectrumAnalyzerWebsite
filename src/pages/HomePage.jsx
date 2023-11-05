@@ -19,7 +19,6 @@ function HomePage() {
 
         <TabPanel>
           <h2>Download the App</h2>
-          {/* Replace href with your actual S3 URL */}
           <a href={appInstallerUrl} download>
             <button>Download Installer</button>
           </a>
@@ -29,11 +28,9 @@ function HomePage() {
         </TabPanel>
         <TabPanel>
           <h2>Documentation</h2>
-          <p>Access to user guides, API documentation, etc.</p>
         </TabPanel>
         <TabPanel>
           <h2>Contact Information</h2>
-          <p>How to reach the team for support or inquiries.</p>
         </TabPanel>
       </Tabs>
     </div>
