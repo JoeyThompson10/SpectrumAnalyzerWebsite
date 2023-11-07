@@ -1,15 +1,15 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import React, { lazy } from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Header from './headerfooter/Header';
 import Footer from './headerfooter/Footer';
-import HomePage from './pages/HomePage';
-import ContactPage from './pages/ContactPage';
-import TermsPage from './pages/TermsPage';
+const HomePage = lazy(() => import('./pages/HomePage'));
+const ContactPage = lazy(() => import('./pages/ContactPage'));
+const TermsPage = lazy(() => import('./pages/TermsPage'));
 import './css/global.css';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <div className="App">
         <Header />
         <Routes>
@@ -19,7 +19,7 @@ function App() {
         </Routes>
         <Footer />
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
