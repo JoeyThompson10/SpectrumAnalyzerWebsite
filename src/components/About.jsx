@@ -9,13 +9,13 @@ const About = () => {
         The Spectrum Analyzer Analysis Tool is a capstone creation, dedicated to
         advancing the analysis of frequency spectrums within video feeds. Our tool
         automates the detection and measurement of signal waveforms to support
-        the 402 SWEG's data analysis requirements.
+        the 402 SWEG's data analysis mission.
       </p>
       <h2>How It Works:</h2>
       <p>
-        By employing computer vision techniques and leveraging the OpenCV library, 
-        this software tool processes video frames to identify grid lines and signal 
-        patterns, calculates waveform properties, and extracts vital information like 
+        By employing computer vision techniques and leveraging the OpenCV library,
+        this software tool processes video frames to identify grid lines and signal
+        patterns, calculates waveform properties, and extracts vital information like
         amplitude and frequency details.
       </p>
       <h2>Functionality:</h2>
@@ -31,7 +31,7 @@ const About = () => {
       </p>
       <h2>Team:</h2>
       <p>
-        This project is brought to you by Masood Afzal, Ashly Altman, Brooke Ebetino, 
+        This project is brought to you by Masood Afzal, Ashly Altman, Brooke Ebetino,
         Tyler Halley, and Joey Thompson, under the mentorship of Dr. Yan Huang.
       </p>
     </div>
