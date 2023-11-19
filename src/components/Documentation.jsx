@@ -163,15 +163,21 @@ const Documentation = () => {
 
       <h2>Resources</h2>
 
+      <h2>Resources</h2>
+
       <ul>
         <li>
-          <strong>Application Source Code</strong>
+          <strong>Application Source Code: </strong>
+          <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject">
+            https://github.com/JoeyThompson10/spectrumAnalyzerProject
+          </a>
         </li>
+
         <li>
-          <strong>Project Website</strong>
-        </li>
-        <li>
-          <strong>User Guide</strong>
+          <strong>Project Website: </strong>
+          <a href="https://main.d21hsol1os28ah.amplifyapp.com/">
+            https://main.d21hsol1os28ah.amplifyapp.com/
+          </a>
         </li>
       </ul>
     </div>
