@@ -163,8 +163,6 @@ const Documentation = () => {
 
       <h2>Resources</h2>
 
-      <h2>Resources</h2>
-
       <ul>
         <li>
           <strong>Application Source Code: </strong>
