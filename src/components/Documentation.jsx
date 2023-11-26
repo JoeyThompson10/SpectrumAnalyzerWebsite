@@ -4,9 +4,9 @@ const Documentation = () => {
   return (
     <div>
       <h1>Documentation</h1>
+      <p>Welcome to the documentation page for the Spectrum Analyzer Application. This guide provides all the necessary information to get started, use, and troubleshoot the application effectively.</p>
 
       <h2>Overview</h2>
-
       <p>
         The Spectrum Analyzer Application is designed to process and analyze
         videos of spectrum analyzer screens. It detects the waveform in each
@@ -21,8 +21,28 @@ const Documentation = () => {
         parallelize video analysis across CPU cores.
       </p>
 
-      <h2>Getting Started</h2>
+      <h2>Final Deliverable Documents</h2>
+      <p>Essential project documents:</p>
+      <ul>
+        <li>
+          <strong>Project Plan:</strong> 
+          <a href="/Group 5 Project Plan (SCP-02).pdf" download>Download Project Plan</a>
+        </li>
+        <li>
+          <strong>Design Document:</strong> 
+          <a href="/Software Design Specification - Group 5.pdf" download>Download Software Design Specification</a>
+        </li>
+        <li>
+          <strong>User Guide:</strong> 
+          {/* Link to User Guide PDF */}
+        </li>
+        <li>
+          <strong>Source Code:</strong> 
+          <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject">View on GitHub</a>
+        </li>
+      </ul>
 
+      <h2>Getting Started</h2>
       <h3>Prerequisites</h3>
 
       <ul>
@@ -74,8 +94,8 @@ const Documentation = () => {
         These can be modified directly in <code>env_vars.py</code> or through
         the Settings page in the GUI.
       </p>
-      <h2>Usage</h2>
 
+      <h2>Usage</h2>
       <p>The main interface allows you to:</p>
 
       <ul>
@@ -101,7 +121,6 @@ const Documentation = () => {
       </ul>
 
       <h2>Code Overview</h2>
-
       <ul>
         <li>
           <code>SpectrumAnalyzerGUI.py</code>: Main GUI application code
@@ -139,7 +158,6 @@ const Documentation = () => {
       </ol>
 
       <h2>Troubleshooting</h2>
-
       <p>Some common issues:</p>
 
       <ul>
@@ -161,35 +179,11 @@ const Documentation = () => {
         </li>
       </ul>
 
-      <h2>Resources</h2>
-
+      <h2>Additional Resources</h2>
       <ul>
         <li>
-          <strong>Application Source Code: </strong>
-          <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject">
-            https://github.com/JoeyThompson10/spectrumAnalyzerProject
-          </a>
-        </li>
-
-        <li>
-          <strong>Project Website: </strong>
-          <a href="https://main.d21hsol1os28ah.amplifyapp.com/">
-            https://main.d21hsol1os28ah.amplifyapp.com/
-          </a>
-        </li>
-
-        <li>
-          <strong>User Manual: </strong>
-          <a href="/Group 5 Project Plan (SCP-02).pdf" download>
-            Download Project Plan
-          </a>
-        </li>
-
-        <li>
-          <strong>Software Design Specification</strong>
-          <a href="/Software Design Specification - Group 5.pdf" download>
-            Download Software Design Specification
-          </a>
+          <strong>Project Website:</strong> 
+          <a href="https://main.d21hsol1os28ah.amplifyapp.com/">Visit Project Website</a>
         </li>
       </ul>
     </div>
