@@ -34,7 +34,7 @@ const Documentation = () => {
         </li>
         <li>
           <strong>User Guide: </strong> 
-          {/* Link to User Guide PDF */}
+          <a href="/Spectrum Analyzer User Guide - Team 5.pdf" download>Download User Guide</a>
         </li>
         <li>
           <strong>Source Code: </strong> 
