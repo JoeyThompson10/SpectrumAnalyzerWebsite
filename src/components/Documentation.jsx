@@ -177,6 +177,13 @@ const Documentation = () => {
             https://main.d21hsol1os28ah.amplifyapp.com/
           </a>
         </li>
+
+        <li>
+          <strong>User Manual: </strong>
+          <a href="/Group 5 Project Plan (SCP-02).pdf" download>
+            Download Project Plan
+          </a>
+        </li>
       </ul>
     </div>
   );
