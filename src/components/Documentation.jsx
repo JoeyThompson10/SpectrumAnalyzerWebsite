@@ -25,19 +25,19 @@ const Documentation = () => {
       <p>Essential project documents:</p>
       <ul>
         <li>
-          <strong>Project Plan:</strong> 
+          <strong>Project Plan: </strong> 
           <a href="/Group 5 Project Plan (SCP-02).pdf" download>Download Project Plan</a>
         </li>
         <li>
-          <strong>Design Document:</strong> 
+          <strong>Design Document: </strong> 
           <a href="/Software Design Specification - Group 5.pdf" download>Download Software Design Specification</a>
         </li>
         <li>
-          <strong>User Guide:</strong> 
+          <strong>User Guide: </strong> 
           {/* Link to User Guide PDF */}
         </li>
         <li>
-          <strong>Source Code:</strong> 
+          <strong>Source Code: </strong> 
           <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject">View on GitHub</a>
         </li>
       </ul>
