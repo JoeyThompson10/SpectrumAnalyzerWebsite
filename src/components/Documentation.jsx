@@ -184,6 +184,13 @@ const Documentation = () => {
             Download Project Plan
           </a>
         </li>
+
+        <li>
+          <strong>Software Design Specification</strong>
+          <a href="/Software Design Specification - Group 5.pdf" download>
+            Download Software Design Specification
+          </a>
+        </li>
       </ul>
     </div>
   );
