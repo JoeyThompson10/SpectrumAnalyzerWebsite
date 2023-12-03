@@ -27,7 +27,7 @@ const About = () => {
       <h2>Code Repository:</h2>
       <p>
         To view the source code for the project, visit the GitHub repository:
-        <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject" target="_blank" rel="noopener noreferrer"> Spectrum Analyzer Project</a>.
+        <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject" target="_blank" rel="noopener noreferrer">Spectrum Analyzer Project</a>
       </p>
       <h2>Team:</h2>
       <p>

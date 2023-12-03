@@ -26,19 +26,39 @@ const Documentation = () => {
       <ul>
         <li>
           <strong>Project Plan: </strong> 
-          <a href="/Group 5 Project Plan (SCP-02).pdf" download>Download Project Plan</a>
+          <a href="/D1 - Project Plan - Team 5.pdf" download>Download Project Plan</a>
         </li>
         <li>
-          <strong>Design Document: </strong> 
-          <a href="/Software Design Specification - Group 5.pdf" download>Download Software Design Specification</a>
+          <strong>Requirements Document: </strong>
+          <a href="/D2 - SRS - Team 5.pdf" download>Download Requirements Document</a>
         </li>
         <li>
-          <strong>User Guide: </strong> 
-          <a href="/Spectrum Analyzer User Guide - Team 5.pdf" download>Download User Guide</a>
+          <strong>Design Document: </strong>
+          <a href="/D3 - SDS - Team 5.pdf" download>Download Design Document</a>
         </li>
         <li>
-          <strong>Source Code: </strong> 
-          <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject">View on GitHub</a>
+          <strong>Test Plan: </strong>
+          <a href="/D4 - Test Document - Team 5.pdf" download>Download Test Plan</a>
+        </li>
+        <li>
+          <strong>Source Code</strong>
+          <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject" target="_blank" rel="noopener noreferrer">Github Repository</a>
+        </li>
+        <li>
+          <strong>User Guide: </strong>
+          <a href="/D6 - User Guide - Team 5.pdf" download>Download User Guide</a>
+        </li>
+        <li>
+          <strong>Weekly Progress Reoports: </strong>
+          <a href="/D7 - Weekly Progress Reports - Team 5.zip" download>Download Weekly Progress Reports</a>
+        </li>
+        <li>
+          <strong>Midterm Presentation: </strong>
+          <a href="/D8 - Midterm Presentation - Team 5.pdf" download>Download Midterm Presentation</a>
+        </li>
+        <li>
+          <strong>Final Presentation: </strong>
+          <a href="/D9 - Final Presentation - Team 5.pdf" download>Download Final Presentation</a>
         </li>
       </ul>
 
