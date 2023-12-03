@@ -40,7 +40,7 @@ const Documentation = () => {
           <a href="/D4 - Test Document - Team 5.pdf" download>Download Test Plan</a>
         </li>
         <li>
-          <strong>Source Code</strong>
+          <strong>Source Code: </strong>
           <a href="https://github.com/JoeyThompson10/spectrumAnalyzerProject" target="_blank" rel="noopener noreferrer">Github Repository</a>
         </li>
         <li>
