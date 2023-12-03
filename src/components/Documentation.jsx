@@ -22,7 +22,6 @@ const Documentation = () => {
       </p>
 
       <h2>Final Deliverable Documents</h2>
-      <p>Essential project documents:</p>
       <ul>
         <li>
           <strong>Project Plan: </strong> 
@@ -196,14 +195,6 @@ const Documentation = () => {
         <li>
           CSV file not outputting: Verify multiprocessing is working and{" "}
           <code>Completed</code> folder exists
-        </li>
-      </ul>
-
-      <h2>Additional Resources</h2>
-      <ul>
-        <li>
-          <strong>Project Website:</strong> 
-          <a href="https://main.d21hsol1os28ah.amplifyapp.com/">Visit Project Website</a>
         </li>
       </ul>
     </div>
