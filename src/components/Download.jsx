@@ -1,12 +1,23 @@
 import React from 'react';
 
 const About = () => {
-    const appInstallerUrl = "https://spectrum-analyzer-installer.s3.amazonaws.com/SpectrumAnalyzerTeam5.exe";
+    const appInstallerUrl = "https://spectrum-analyzer-installer.s3.amazonaws.com/SpectrumAnalyzerGUI.exe";
     
     return (
         <div>
             <h1>Download the Spectrum Analyzer</h1>
             <h2>Installation Instructions:</h2>
+
+            <h3>Executable:</h3>
+            <p>Download the executable file and run it on your system. Follow the on-screen instructions to complete the installation.</p>
+
+            <a href={appInstallerUrl} download>
+                <button className="download-button">Download Executable</button>
+            </a>
+            <p>Version: 2.2</p>
+            <p>File Size: 106 MB</p>
+            <p>Release Date: 2023-12-07</p>
+            <p>System Requirements: Windows 10/11, 4GB RAM, 500MB Disk Space</p>
 
             <h3>GitHub Repository:</h3>
             <p>Download and run the project from our GitHub repository. Here's how:</p>
@@ -20,16 +31,6 @@ const About = () => {
             </ol>
             <p>Note: You can also find detailed instructions and documentation on how to set up and run the project in the repository's README file.</p>
 
-            {/* <h3>Installer:</h3>
-            <p>Download the installer and run it on your system. Follow the on-screen instructions to complete the installation.</p>
-
-            <a href={appInstallerUrl} download>
-                <button className="download-button">Download Installer</button>
-            </a>
-            <p>Version: 1.6</p>
-            <p>File Size: 15 MB</p>
-            <p>Release Date: 2023-11-05</p>
-            <p>System Requirements: Windows 10/11, 4GB RAM, 500MB Disk Space</p> */}
         </div>
     );
 };
