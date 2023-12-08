@@ -1,14 +1,14 @@
 import React from 'react';
 
 const About = () => {
-    const appInstallerUrl = "https://spectrum-analyzer-installer.s3.amazonaws.com/SpectrumAnalyzerGUI.exe";
+    // const appInstallerUrl = "https://spectrum-analyzer-installer.s3.amazonaws.com/SpectrumAnalyzerGUI.exe";
     
     return (
         <div>
             <h1>Download the Spectrum Analyzer</h1>
             <h2>Installation Instructions:</h2>
 
-            <h3>Executable:</h3>
+            {/* <h3>Executable:</h3>
             <p>Download the executable file and run it on your system. Follow the on-screen instructions to complete the installation.</p>
 
             <a href={appInstallerUrl} download>
@@ -17,7 +17,7 @@ const About = () => {
             <p>Version: 2.2</p>
             <p>File Size: 106 MB</p>
             <p>Release Date: 2023-12-07</p>
-            <p>System Requirements: Windows 10/11, 4GB RAM, 500MB Disk Space</p>
+            <p>System Requirements: Windows 10/11, 4GB RAM, 500MB Disk Space</p> */}
 
             <h3>GitHub Repository:</h3>
             <p>Download and run the project from our GitHub repository. Here's how:</p>
